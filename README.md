@@ -1,2 +1,2 @@
-# FrontEndWebDecelopmentHTMLRepository
-Tuesday Class learning to make a github repository
+# FrontEndWebDevelopmentHTMLRepository
+Week 3 Lab 2
